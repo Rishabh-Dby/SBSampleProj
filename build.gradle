@@ -31,7 +31,7 @@ repositories {
 
 ext {
 	set('snippetsDir', file("build/generated-snippets"))
-	set('hillaVersion', "2.5.5")
+	set('hillaVersion', "2.5.7")
 	set('netflixDgsVersion', "8.6.1")
 	set('sentryVersion', "7.3.0")
 	set('solaceSpringCloudVersion', "4.0.0")
